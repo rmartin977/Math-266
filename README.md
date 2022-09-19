@@ -1,2 +1,2 @@
 # Math-266
-Math 266 Linear Algebra ~ Summer 2021
+Math 266 Linear Algebra ~ Fall 2022
